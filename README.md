@@ -1,4 +1,4 @@
-### ✨ Hi Everyone 👋 i'm logicmachine123
+### ✨ Hi Everyone 👋 I'm logicmachine123
 
 - 😄 logicmachine123 (Gabriel Lacerda)
 - ⚡ Experience: Senior Javascript (Server side + Front end), GraphQL, MySql, MongoDB developer.
